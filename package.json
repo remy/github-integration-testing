@@ -1,0 +1,20 @@
+{
+  "name": "github-integration-demo",
+  "version": "1.0.0",
+  "description": "github integration demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "githubhook": "^1.9.2"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "..."
+  },
+  "license": "MIT",
+  "keywords": ["node", "github"]
+}
