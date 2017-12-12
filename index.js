@@ -8,7 +8,7 @@ function listen(port = 8000, secret = 'a secret code') {
   const githubhook = require('githubhook');
   const hook = githubhook({
     port,
-    secret,
+    // secret,
     path: '/',
   });
 

@@ -16,5 +16,8 @@
     "url": "..."
   },
   "license": "MIT",
-  "keywords": ["node", "github"]
+  "keywords": [
+    "node",
+    "github"
+  ]
 }
