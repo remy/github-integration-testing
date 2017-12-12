@@ -1,8 +1,7 @@
 {
   "name": "github-integration-testing",
   "version": "1.0.0",
-  "description":
-    "This is the first readme which will be part of the first PR to help see the webhook event content.",
+  "description": "This is the first readme which will be part of the first PR to help see the webhook event content.",
   "main": "index.js",
   "dependencies": {
     "undefsafe": "^2.0.1"
