@@ -1,0 +1,8 @@
+# Configuration for update-docs - https://github.com/behaviorbot/update-docs
+
+# Comment to be posted to on PRs that don't update documentation
+replyComment: >
+  Thanks for raising an issue on this repo. If you're happy with how it was handled, maybe you could star this repo by way of thanks 👍🎉❤️
+
+labels:
+  - bug
