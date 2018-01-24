@@ -1,0 +1,24 @@
+{
+  "name": "github-integration-testing",
+  "version": "1.0.0",
+  "description": "This is the first readme which will be part of the first PR to help see the webhook event content.",
+  "main": "index.js",
+  "dependencies": {
+    "undefsafe": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remy/github-integration-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/remy/github-integration-testing/issues"
+  },
+  "homepage": "https://github.com/remy/github-integration-testing#readme"
+}
